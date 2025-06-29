@@ -5,6 +5,5 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo | Gere o roteiro para o primeiro episódio do podcast Wingardium Divosa. Esse é um podcast sobre desenvolvimento front end de softwares e com um toque de temas de Harry Potter (por isso o trocadilho do nome que usa um feitiço e div). A ideia é falar que para aprender front end é essencial dominar o básico primeiro (html, css e js). |
 
